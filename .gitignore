@@ -1,0 +1,5 @@
+/ML/data
+/ML/.vscode
+/Hardware Interface/__pycache__
+API/poetry.lock
+API/api/secrets/*
